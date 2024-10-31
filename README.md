@@ -1,10 +1,10 @@
-# Cypress Automated Testing Project
+# Cypress Automated Testing Assignment
 ---
 ## Overview
-This project demonstrates automated testing using the Cypress framework, focusing on key functionalities like user login, product search, cart management, and the checkout process.
+This assignment demonstrates automated testing using the Cypress framework, focusing on key functionalities like user login, product search, cart management, and the checkout process.
 ---
 ## Target Website
-This project is designed for automated testing on the [Automation Test Store](https://automationteststore.com/). The tests validate various functionalities of the website, ensuring a seamless user experience.
+This assignment is designed for automated testing on the [Automation Test Store](https://automationteststore.com/). The tests validate various functionalities of the website, ensuring a seamless user experience.
 ---
 ## Features
 - **User Login**: Tests the login functionality for users.
